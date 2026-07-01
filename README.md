@@ -1,16 +1,23 @@
-<h1 align="center">Hi 👋, I'm Harshit Sharma</h1>
-<h3 align="center">I am a passionate Data Engineering enthusiast with over 6 months of internship experience building scalable data pipelines and cloud-based data solutions. I work with modern technologies like Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to design efficient and reliable data workflows. I am also a **Microsoft Certified: Azure Databricks Data Engineer Associate (DP-750)** and continuously strive to expand my knowledge by learning and exploring the latest advancements in Data Engineering.</h3>
+<table>
+<tr>
+<td width="60%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ha1shu&label=Profile%20views&color=0e75b6&style=flat" alt="ha1shu" /> </p>
+<h1>Hi 👋, I'm Harshit Sharma</h1>
 
-- 🔭 I’m a **Data Engineer**
-
-- 🔗 LinkedIn: [https://www.linkedin.com/in/harshit-sharma-data-engineer/](https://www.linkedin.com/in/harshit-sharma-data-engineer/)
-
-- 💻 LeetCode: [https://leetcode.com/u/HarshitS03/](https://leetcode.com/u/HarshitS03/)
-
-
+<p>
+I am a passionate Data Engineering enthusiast with over 6 months of internship experience building scalable data pipelines and cloud-based data solutions. I work with Azure Data Factory, Azure Databricks, Azure Synapse Analytics, Delta Lake, and the Data Lakehouse to design efficient and reliable data workflows. I am also a <b>Microsoft Certified: Azure Databricks Data Engineer Associate (DP-750)</b>.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- 🔭 Data Engineer
+- 🔗 <a href="https://www.linkedin.com/in/harshit-sharma-data-engineer/">LinkedIn</a>
+- 💻 <a href="https://leetcode.com/u/HarshitS03/">LeetCode</a>
+
+</td>
+
+<td width="40%">
+
+<img src="YOUR_GIF_URL" width="350"/>
+
+</td>
+</tr>
+</table>
